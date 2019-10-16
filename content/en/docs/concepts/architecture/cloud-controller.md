@@ -14,7 +14,7 @@ This document discusses the concepts behind the cloud controller manager and giv
 
 Here's the architecture of a Kubernetes cluster without the cloud controller manager:
 
-![Pre CCM Kube Arch](/images/docs/pre-ccm-arch.png)
+[Pre CCM Kube Arch](/images/docs/pre-ccm-arch.png)
 
 {{% /capture %}}
 
