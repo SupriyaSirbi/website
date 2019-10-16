@@ -54,7 +54,7 @@ Volume controller was deliberately chosen to not be a part of CCM. Due to the co
 
 The original plan to support volumes using CCM was to use Flex volumes to support pluggable volumes. However, a competing effort known as CSI is being planned to replace Flex.
 
-Considering these dynamics, we decided to have an intermediate stop gap measure until CSI becomes ready.
+Considering these dynamics, we decided to have an intermediate stop gap measure until CSI becomes rea.
 
 ## Functions of the CCM
 
